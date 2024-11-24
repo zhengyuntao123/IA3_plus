@@ -2,6 +2,5 @@
 output/
 model/
 .deepeval_telemtry.txt
-deprecated/
-
+python_files/
 
