@@ -3,4 +3,6 @@ output/
 model/
 .deepeval_telemtry.txt
 python_files/
-
+yuntaozh/
+.idea/
+__pycache__/
