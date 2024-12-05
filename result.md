@@ -14,6 +14,10 @@
 
 ![image-20241124143445278](./assets/image-20241124143445278.png)
 
+## Our Method
+
+![image-20241205135736176](./assets/image-20241205135736176.png)
+
 
 
 # arc_challenge
@@ -29,3 +33,8 @@
 ## IA3
 
 ![image-20241124143541804](./assets/image-20241124143541804.png)
+
+## Our Method
+
+![image-20241205135752722](./assets/image-20241205135752722.png)
+
