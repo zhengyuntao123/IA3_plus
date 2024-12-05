@@ -36,5 +36,5 @@
 
 ## Our Method
 
-![image-20241205135752722](./assets/image-20241205135752722.png)
+![image-20241205152152688](./assets/image-20241205152152688.png)
 
