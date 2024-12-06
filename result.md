@@ -16,7 +16,7 @@
 
 ## Our Method
 
-![image-20241205135736176](./assets/image-20241205135736176.png)
+![image-20241205213046952](./assets/image-20241205213046952.png)
 
 
 
