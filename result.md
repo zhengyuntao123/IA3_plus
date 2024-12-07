@@ -38,3 +38,7 @@
 
 ![image-20241205152152688](./assets/image-20241205152152688.png)
 
+## Our Method wo o_proj
+
+![image-20241206211716236](./assets/image-20241206211716236.png)
+
