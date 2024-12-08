@@ -18,6 +18,10 @@
 
 ![image-20241205213046952](./assets/image-20241205213046952.png)
 
+## Our Method wo o_proj
+
+![image-20241207202917735](./assets/image-20241207202917735.png)
+
 
 
 # arc_challenge
