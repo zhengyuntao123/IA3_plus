@@ -22,6 +22,10 @@
 
 ![image-20241207202917735](./assets/image-20241207202917735.png)
 
+## Our Method wo residual
+
+![image-20241207213334291](./assets/image-20241207213334291.png)
+
 
 
 # arc_challenge
@@ -46,3 +50,6 @@
 
 ![image-20241206211716236](./assets/image-20241206211716236.png)
 
+## Our Method wo residual
+
+![image-20241207211951622](./assets/image-20241207211951622.png)
